@@ -301,7 +301,7 @@ gradle-app.setting
 # Output of 'npm pack'
 
 # Yarn Integrity file
-
+./yarn.lock
 # dotenv environment variables file
 
 # parcel-bundler cache (https://parceljs.org/)
